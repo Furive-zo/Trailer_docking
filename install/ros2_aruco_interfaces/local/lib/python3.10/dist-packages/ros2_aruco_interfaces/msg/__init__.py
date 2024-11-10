@@ -1,0 +1,1 @@
+/home/furive-zo/Workspace/study/trailer-docking/build/ros2_aruco_interfaces/rosidl_generator_py/ros2_aruco_interfaces/msg/__init__.py

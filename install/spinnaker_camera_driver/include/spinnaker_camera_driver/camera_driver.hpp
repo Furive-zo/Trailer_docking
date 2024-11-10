@@ -1,0 +1,1 @@
+/home/furive-zo/Workspace/study/trailer-docking/src/flir_camera_driver/spinnaker_camera_driver/include/spinnaker_camera_driver/camera_driver.hpp

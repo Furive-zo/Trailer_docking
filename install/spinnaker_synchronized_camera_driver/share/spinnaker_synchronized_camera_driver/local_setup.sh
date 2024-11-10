@@ -1,0 +1,1 @@
+/home/furive-zo/Workspace/study/trailer-docking/build/spinnaker_synchronized_camera_driver/ament_cmake_environment_hooks/local_setup.sh
