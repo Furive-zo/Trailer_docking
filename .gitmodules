@@ -1,0 +1,6 @@
+[submodule "src/flir_camera_driver"]
+	path = src/flir_camera_driver
+	url = git@github.com:Furive-zo/flir_camera_driver.git
+[submodule "src/AR_recognition"]
+	path = src/AR_recognition
+	url = git@github.com:Furive-zo/AR_recognition.git
