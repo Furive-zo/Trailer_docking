@@ -1,1 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/build/flir_camera_msgs/rosidl_typesupport_fastrtps_c/flir_camera_msgs/msg/detail/image_meta_data__rosidl_typesupport_fastrtps_c.h

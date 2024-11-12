@@ -1,1 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/build/flir_camera_msgs/rosidl_generator_py/flir_camera_msgs/msg/_image_meta_data_s.c

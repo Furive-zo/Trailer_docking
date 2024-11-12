@@ -1,1 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/src/ros2_aruco/ros2_aruco_interfaces/msg/ArucoMarkers.msg

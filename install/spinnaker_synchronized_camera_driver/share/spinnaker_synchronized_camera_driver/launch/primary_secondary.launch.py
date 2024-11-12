@@ -1,1 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/src/flir_camera_driver/spinnaker_synchronized_camera_driver/launch/primary_secondary.launch.py

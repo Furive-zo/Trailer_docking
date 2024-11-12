@@ -1,1 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/build/flir_camera_msgs/ament_cmake_environment_hooks/local_setup.zsh

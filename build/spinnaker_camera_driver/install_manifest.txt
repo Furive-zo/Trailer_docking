@@ -1,3 +1,0 @@
-/home/furive-zo/Workspace/study/trailer-docking/install/spinnaker_camera_driver/lib/libcamera_driver.so
-/home/furive-zo/Workspace/study/trailer-docking/install/spinnaker_camera_driver/lib/cmake/spinnaker_camera_driver/spinnaker_camera_driverTargets.cmake
-/home/furive-zo/Workspace/study/trailer-docking/install/spinnaker_camera_driver/lib/cmake/spinnaker_camera_driver/spinnaker_camera_driverTargets-release.cmake
